@@ -35,7 +35,8 @@ Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
-Program:
+Program:![Screenshot (18)](https://user-images.githubusercontent.com/130567548/233026226-d3814c1f-421e-42f9-9adf-ed46453cc529.png)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 Developed by: 
@@ -44,8 +45,10 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 
-### Output:
-### RTL
+### Output:![Screenshot (19)](https://user-images.githubusercontent.com/130567548/233026351-fc0da578-c993-411f-bf17-8139d91218b7.png)
+
+### RTL ![Screenshot (17)](https://user-images.githubusercontent.com/130567548/233026288-36de0e2c-0e47-474a-8817-7325b5f40fb4.png)
+
 ### TIMING DIAGRAM
 
 
